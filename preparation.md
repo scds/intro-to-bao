@@ -7,24 +7,16 @@ nav_order: 2
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 
-<!--
-
 # Workshop preparation 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
+## Account 
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+To access the ArcGIS Business Analyst Web App (BAO), users will need an ArcGIS account.  
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+Current McMaster University students, staff, and faculty may request an account by contacting [libgis@mcmaster.ca](mailto:libgis@mcmaster.ca). 
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
+*Please note, accounts may be used for instruction and research purposes only and will be available while you are affiliated with the University. Use of the software for commercial, profit, or private gain is a violation of the terms of use.*
 
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
+## Login 
 
--->
+Once your account has been activated, users can login to BAO at https://bao.arcgis.com/esriBAO/login/.

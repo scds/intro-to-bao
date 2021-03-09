@@ -19,4 +19,4 @@ Current McMaster University students, staff, and faculty may request an account 
 
 ## Login 
 
-Once your account has been activated, users can login to BAO at https://bao.arcgis.com/esriBAO/login/.
+Once your account has been activated, users can login to BAO at [https://bao.arcgis.com/esriBAO/login/](https://bao.arcgis.com/esriBAO/login/).

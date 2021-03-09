@@ -2,7 +2,7 @@
 layout: default
 title: Create Project
 nav_order: 1
-parent: instructions
+parent: Content
 ---
 
 # Creating a Project

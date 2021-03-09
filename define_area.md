@@ -2,7 +2,7 @@
 layout: default
 title: Define Study Area
 nav_order: 2
-parent: instructions
+parent: Content
 ---
 
 # Define your Study Area

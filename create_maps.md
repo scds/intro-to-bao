@@ -7,7 +7,7 @@ parent: Content
 
 # Create Maps
 
-Similar to defining areas, there are three types of maps that can be created using the Business Analyst Web App – **1) colour-coded maps**; **2) smart map search**; and **3) business and facilities search**. 
+Similar to defining areas, there are three types of maps that can be created using the Business Analyst Web App – **1) [colour-coded maps](#colour-coded-maps)**; **2) [smart map search](#smart-map-search)**; and **3) [business and facilities search](#business-and-facilities-search)**. 
 
 ## Colour-Coded Maps
 

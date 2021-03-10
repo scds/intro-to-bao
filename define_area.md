@@ -7,7 +7,7 @@ parent: Content
 
 # Define your Study Area
 
-There are three ways to define your study area – **1) find location**; **2) select geography**; and **3) drawing a polygon around your area**. Once the study area has been defined, reports can be run and data can be limited to that area. 
+There are three ways to define your study area – **1) [find location](#find-location)**; **2) [select geography](#select-geography)**; and **3) [drawing a polygon](#draw-polygon) around your area**. Once the study area has been defined, reports can be run and data can be limited to that area. 
 
 The process for each method can be viewed in the following videos.
 

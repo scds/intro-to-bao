@@ -17,7 +17,7 @@ Study areas can be defined by searching for an address, entering the latitude/lo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2sFFilPTXE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Source: [Find Location - Business Analyst | Documentation](https://doc.arcgis.com/en/business-analyst/web/find-location.htm) (Esri)*
+*Source: [Find Location - Business Analyst Documentation](https://doc.arcgis.com/en/business-analyst/web/find-location.htm) (Esri)*
 
 ## Select Geography
 
@@ -27,7 +27,7 @@ The following video goes through the process of *Using the Select Geography Tool
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6U-yhf4PRDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Source: [Select Geography - Business Analyst | Documentation](https://doc.arcgis.com/en/business-analyst/web/select-geography.htm) (Esri)*
+*Source: [Select Geography - Business Analyst Documentation](https://doc.arcgis.com/en/business-analyst/web/select-geography.htm) (Esri)*
 
 ## Draw Polygon
 
@@ -35,4 +35,4 @@ Lastly, study areas can be defined by drawing a polygon on the map. See the vide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/woPYhc1AoBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Source: [Draw Polygon - Business Analyst | Documentation](https://doc.arcgis.com/en/business-analyst/web/draw-polygon.htm) (Esri)*
+*Source: [Draw Polygon - Business Analyst Documentation](https://doc.arcgis.com/en/business-analyst/web/draw-polygon.htm) (Esri)*

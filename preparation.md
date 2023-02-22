@@ -13,7 +13,7 @@ nav_order: 2
 
 To access the ArcGIS Business Analyst Web App (BAO), users will need an ArcGIS account.  
 
-Current McMaster University students, staff, and faculty may request an account by contacting [libgis@mcmaster.ca](mailto:libgis@mcmaster.ca). 
+Current McMaster University students, staff, and faculty may request an account by contacting [libgis@mcmaster.ca](mailto:libgis@mcmaster.ca) or completing the [software request form](https://docs.google.com/forms/d/e/1FAIpQLSc1NpIK3WNkWT2P92nBsBB76PDlpDa9uKn7tYi3wGO6co97eA/viewform?usp=sf_link). 
 
 *Please note, accounts may be used for instruction and research purposes only and will be available while you are affiliated with the University. Use of the software for commercial, profit, or private gain is a violation of the terms of use.*
 

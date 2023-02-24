@@ -11,6 +11,6 @@ One of the ways maps and results can be shared is by exporting the map to a PDF 
 
 Watch the following video - *Export a Map in Business Analyst* - to learn more about how to create your map and what file formats are available.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YjqJ1GTyuJA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="kmsembed-1_kroemjd0" width="608" height="402" src="https://mediaspace.esri.com/embed/secure/iframe/entryId/1_kroemjd0/uiConfId/49028003/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Export a Map in Business Analyst"></iframe>
 
-*Source: [PDF or Image - Business Analyst Documentation](https://doc.arcgis.com/en/business-analyst/web/pdf-or-image.htm) (Esri)*
+*Source: [Business Analyst Documentation](https://doc.arcgis.com/en/business-analyst/web/pdf-or-image.htm) (Esri)*
